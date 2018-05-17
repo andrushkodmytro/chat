@@ -1,0 +1,29 @@
+body{
+	min-height: 100vh;
+	background-color: grey#CDC8C8;
+}
+.container1{
+	border:1px black solid;
+	border-radius: 5px;
+}
+.gretin, .send{
+	background-color:#439F56 ;
+	padding: 10px
+}
+#messages{
+	background-color: lightgreen;
+	min-height: 85vh
+}
+
+#users{
+	background-color: green;
+	min-height: 85vh
+}
+#txt{
+	min-width: 80%;
+
+}
+.msg{
+	font-size: 10px;
+	margin: 5px;
+}
